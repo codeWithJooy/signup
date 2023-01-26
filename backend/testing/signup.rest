@@ -1,0 +1,10 @@
+POST http://localhost:5000/signup
+Content-Type: application/json
+
+{
+    "fullname":"Abhi Hazra",
+    "email":"enigma.abhi.ty@gmail.com",
+    "phone":"9007453398",
+    "password":"Ibmmicro1!"
+
+}
